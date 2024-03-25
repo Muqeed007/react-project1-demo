@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <div className='flex justify-between items-center p-4 mx-4'>
             <h1>Knowledge Cafe</h1>
-            <img src={profile} alt="" />
+            <img className='' src={profile} alt="" />
         </div>
     );
 };

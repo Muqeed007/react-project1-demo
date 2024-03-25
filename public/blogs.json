@@ -1,29 +1,29 @@
 [
     {
       "id": 1,
-      "cover_image": "https://i.ibb.co/C8W7ckJ/aleksandar-kyng-dhkdf-Fx-GHf-U-unsplash.jpg",
+      "cover_image": "https://i.ibb.co/PZvBZk2/edgar-chaparro-T-D4-Bb-H88-unsplash.jpg",
       "author_name": "John Doe",
-      "author_image": "https://example.com/author1.jpg",
+      "author_image": "https://i.ibb.co/W3zyrNL/60111.jpg",
       "published_date": "16 March",
       "reading_time": 8,
       "title": "10 Tips for Better Productivity",
-      "hashtags": ["productivity", "time-management"]
+      "hashtags": ["productivity", "time_management"]
     },
     {
       "id": 2,
-      "cover_image": "https://i.ibb.co/5Gr8Dw5/alexander-redl-d3b-Ymn-Z0ank-unsplash.jpg",
+      "cover_image": "https://i.ibb.co/GJhYTLy/lesly-juarez-is-WEKd-SRCr-A-unsplash.jpg",
       "author_name": "Jane Smith",
-      "author_image": "https://example.com/author2.jpg",
+      "author_image": "https://i.ibb.co/WpwJ61L/7309693.jpg",
       "published_date": "17 March",
       "reading_time": 5,
       "title": "Introduction to Machine Learning",
-      "hashtags": ["machine-learning", "data-science"]
+      "hashtags": ["machine_learning", "data_science"]
     },
     {
       "id": 3,
       "cover_image": "https://i.ibb.co/QC5SF6Y/meghan-holmes-bu-Wc-S7-G1-28-unsplash.jpg",
       "author_name": "Michael Brown",
-      "author_image": "https://example.com/author3.jpg",
+      "author_image": "https://i.ibb.co/2M1ngpK/7309687.jpg",
       "published_date": "18 March",
       "reading_time": 7,
       "title": "The Art of Storytelling",
@@ -31,9 +31,9 @@
     },
     {
       "id": 4,
-      "cover_image": "https://i.ibb.co/PZvBZk2/edgar-chaparro-T-D4-Bb-H88-unsplash.jpg",
+      "cover_image": "https://i.ibb.co/C8W7ckJ/aleksandar-kyng-dhkdf-Fx-GHf-U-unsplash.jpg",
       "author_name": "Emily Johnson",
-      "author_image": "https://example.com/author4.jpg",
+      "author_image": "https://i.ibb.co/DCQtvsP/6857.jpg",
       "published_date": "19 March",
       "reading_time": 6,
       "title": "Exploring the Wonders of Nature",
@@ -41,13 +41,13 @@
     },
     {
       "id": 5,
-      "cover_image": "https://i.ibb.co/GJhYTLy/lesly-juarez-is-WEKd-SRCr-A-unsplash.jpg",
+      "cover_image": "https://i.ibb.co/5Gr8Dw5/alexander-redl-d3b-Ymn-Z0ank-unsplash.jpg",
       "author_name": "David Lee",
-      "author_image": "https://example.com/author5.jpg",
+      "author_image": "https://i.ibb.co/2c35wDV/7309670.jpg",
       "published_date": "20 March",
       "reading_time": 10,
       "title": "The Rise of Artificial Intelligence",
-      "hashtags": ["artificial-intelligence", "technology"]
+      "hashtags": ["artificial_intelligence", "technology"]
     }
   ]
   
