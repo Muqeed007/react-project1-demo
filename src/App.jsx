@@ -8,15 +8,16 @@ import Header from './Header'
 function App() {
   
   const [bookmarks,setBookmarks] = useState([])
-  const [readingTime,setReadingtime] = useState([])
+  const [readingTime,setReadingtime] = useState(0)
 
   const handleBookmark = blog =>{
     const newBookmarks = [...bookmarks,blog];
     setBookmarks(newBookmarks);
   }
-  const handleMarkAsRead = time =>{
-    setReadingtime( newReadingTime => newReadingTime + time);
-  }
+  const handleMarkAsRead = (time) => {
+    
+    setReadingtime(readingTime + time);
+}
   return (
     <>
       <div className='max-w-7xl mx-auto'>
