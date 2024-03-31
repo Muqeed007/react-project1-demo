@@ -27,7 +27,7 @@ const Blog = ({ blog, handleBookmark , handleMarkAsRead}) => {
                 </div>
             </div>
             <div>
-                <h2 className="text-4xl mb-3">{title}</h2>
+                <h2 className="text-4xl mb-3 underline">{title}</h2>
             </div>
             <div className='mb-3'>
                 {
